@@ -6,3 +6,6 @@
 /Simulator/bin/Debug/netcoreapp2.1
 /Simulator/obj
 /Simulator/Properties/launchSettings.json
+/Simulator/Simulator.csproj.user
+/Simulator/Properties/PublishProfiles
+/Simulator/bin/Release/netcoreapp2.1
